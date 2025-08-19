@@ -1,4 +1,4 @@
-# Trello Selenium Automation Script – Deepchain Labs QA Internship
+# Trello Selenium Automation Script – QA Internship
 
 This repository contains a basic Selenium automation script written in **JavaScript** to test core user functionalities of the **Trello** platform. It is part of the submission for **Round 1: Technical Test** of the Deepchain Labs QA Internship.
 
